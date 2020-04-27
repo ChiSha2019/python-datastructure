@@ -13,7 +13,7 @@ class MyLinkedList:
 
 
 llist = MyLinkedList()
-llist.head == Node(1)
+llist.head = Node(1)
 second = Node(2)
 third = Node(3)
 llist.head.next = second
